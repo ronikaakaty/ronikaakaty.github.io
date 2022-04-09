@@ -4,19 +4,14 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hello, my name is Roni. My background is in the healthcare industry, however I've always had a fascination with numbers. I've always enjoyed looking over data and trying to figure out what story is being told. That's what brought me to the data science field. I finally found an area that links my passion of sports with my love of data. I'm eager to grow and see what else this industry has for me. </p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Education
+Master of Science in Data Science
+Bellevue University - Bellevue, NE
+Coursework included: Applied Statistics, Data Exploration and Analysis, Data Preparation, Data Mining, Predictive Analytics, Data Presentation and Visualization, and Big Data
+Bachelor of Science in Biology
+University of North Texas - Denton, TX</p>
 
 <h2>Skills</h2>
 
@@ -39,7 +34,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
+	<li><a href="https://github.com/">Roni Kaakaty</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
