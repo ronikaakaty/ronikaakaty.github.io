@@ -9,15 +9,14 @@ layout: page
 <p>
 <h2>Education</h2>
 <li>Master of Science in Data Science</li>
-  Bellevue University - Bellevue, NE
-  Coursework included: Applied Statistics, Data Exploration and Analysis, Data Preparation, Data Mining, Predictive Analytics, Data Presentation and Visualization, and     Big Data
+    Bellevue University - Bellevue, NE
 <li>Bachelor of Science in Biology</li>
     University of North Texas - Denton, TX</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
+	<li>HTML</li>
 	<li>Git</li>
 	<li>SQL</li>
 	<li>Python</li>
