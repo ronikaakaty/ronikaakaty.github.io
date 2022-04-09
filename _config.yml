@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/RK.jpg
+picture: assets/images/RK1.jpg
 
 # your site color theme, false to light theme
 dark-theme: false
@@ -42,10 +42,10 @@ email: rkaakaty@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
+    name: Roni Kaakaty
     bio: A Man who travels the world eating noodles
     external-image: false
-    picture: assets/images/profile.jpg
+    picture: assets/images/RK1.jpg
     twitter: johndoe
   jamesfoster:
     name: James Foster
