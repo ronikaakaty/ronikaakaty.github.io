@@ -16,10 +16,10 @@ dd {
 <h2>Education</h2>
 
 <ul>
-	<li>Master of Science in Data Science</li>
+	<dd>Master of Science in Data Science</dd>
 	<dd>Bellevue University - Bellevue, NE</dd>
 	<dd><i>Coursework included: Applied Statistics, Data Exploration and Analysis, Data Preparation, Data Mining, Predictive Analytics, Data Presentation and Visualization, and Big Data</i></dd>
-	<li>Bachelor of Science in Biology</li>
+	<dd>Bachelor of Science in Biology</dd>
     <dd>University of North Texas - Denton, TX</dd>
 
 <h2>Skills</h2>
