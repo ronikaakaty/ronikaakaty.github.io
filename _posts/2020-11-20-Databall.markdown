@@ -1,8 +1,12 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "Databall: Utilizing Machine Learning to Identify Market Opportunities in Baseball"
 layout: post
-date: 2016-01-23 22:10
-tag: jekyll
+date: 2020-11-20 22:10
+tag: 
+- predictive analytics
+- mlb
+- moneyball
+- python
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
