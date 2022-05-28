@@ -17,20 +17,7 @@ externalLink: false
 
 ![Screenshot](/assets/images/databall.png)
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](https://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+## Databall: Utilizing Machine Learning to Identify Market Opportunities in Baseball
+<p align='justify'>This project stemmed from the movie Moneyball, which brought analytics to the forefront in the sport's industry. Moneyball was about a small market baseball team identifying certain attributes of players that were undervalued in the market at that time using analytics. Databall aims to build on those concepts by using machine learning models to identify additional undervalued attributes that have come out since the release of that film to see if they stand the test of time. This project puts less emphasis on traditionalist stats and instead aims to identify advanced metrics that can provide more value to ball clubs and translate to more success on the field.</p>
 
----
-
-What has inside?
-
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
-
----
-
-[Check it out](https://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](https://github.com/sergiokopplin/indigo/issues).
+GitHub repository can be found here: [GitHub]( https://github.com/ronikaakaty/Projects/tree/main/Predictive%20Analytics-%20Databall)
